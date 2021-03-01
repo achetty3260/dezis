@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link href="../assets/styles.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://use.typekit.net/rtx0nbj.css">
+<link rel="stylesheet" href="https://use.typekit.net/rtx0nbj.css">
+<link rel="stylesheet" href="https://use.typekit.net/rtx0nbj.css">
+<!-- TemplateBeginEditable name="head" -->
+	
+	<style type="text/css">
+	
+	</style>
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+	<div id="container">
+  <header></header>
+  <nav>
+	 <ul style="font-family: neonoir, sans-serif; font-style: normal; font-weight: 400; font-size: 18px;">
+	  	<li><a href="../pages/about.html">About</a></li>
+	  	<li><a href="../pages/blog.html">Blog</a></li>
+	  	<li><a href="../pages/gallery.html">Gallery</a></li>
+	  	<li><a href="../pages/contact.html">Contact</a></li>
+	 </ul>
+	</nav>
+  <!--begin floated elements.-->
+  <aside>
+    <h3>I'm a woman, a sister, a junior, a AoIT student, and a photographer, who also wears glasses.</h3>
+    <h3>Join me as I examine life through all of my various lenses.</h3>
+    <h3>by Aparna</h3> 
+ 
+  </aside>
+	
+  <!-- TemplateBeginEditable name="main-content" -->
+  <main>
+    <h1>Page Title</h1>
+  </main>
+  <!-- TemplateEndEditable -->  <!--end floated elements.-->
+  <footer>Content for New footer Tag Goes Here</footer>
+</div>
+</body>
+</html>
